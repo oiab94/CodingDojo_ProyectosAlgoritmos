@@ -10,3 +10,4 @@
 - [Múltiplos de tres, pero no todos](/01-Algorithm-Concepts/src/ToDo1/multiply.js)
 - [Imprimir enteros con While](/01-Algorithm-Concepts/src/ToDo1/printNumbersWhile.js)
 - [Año bisiesto](/01-Algorithm-Concepts/src/ToDo1/leapYear.js)
+- [Imprimir y contar](/01-Algorithm-Concepts/src/ToDo1/multiplyOfFive.js)
