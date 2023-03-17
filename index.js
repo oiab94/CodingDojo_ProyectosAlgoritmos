@@ -1,6 +1,7 @@
 const { beCheerful } = require("./01-Algorithm-Concepts/src/ToDo1/beCheereful")
 const { changeTwoWords } = require("./01-Algorithm-Concepts/src/ToDo1/changeTwoWords")
 const { countLikeDojo } = require("./01-Algorithm-Concepts/src/ToDo1/countLikeDojo")
+const { isBig } = require("./01-Algorithm-Concepts/src/ToDo1/isBig")
 const { leapYear } = require("./01-Algorithm-Concepts/src/ToDo1/leapYear")
 const { multiply } = require("./01-Algorithm-Concepts/src/ToDo1/multiply")
 const { multiplyOfFive } = require("./01-Algorithm-Concepts/src/ToDo1/multiplyOfFive")
@@ -21,4 +22,5 @@ const { whenIsMyBirthday } = require("./01-Algorithm-Concepts/src/ToDo1/whenIsYo
 // console.log("Cantidad: ", multiplyOfFive());
 // multiplyOfSix();
 // countLikeDojo();
-whatYouKnow("asdf");
+// whatYouKnow("asdf");
+isBig();

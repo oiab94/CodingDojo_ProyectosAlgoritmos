@@ -14,3 +14,4 @@
 - [Multiplos de seis](/01-Algorithm-Concepts/src/ToDo1/multiplyOfSix.js)
 - [Contando, a la manera Dojo](/01-Algorithm-Concepts/src/ToDo1/countLikeDojo.js)
 - [Que sabe](/01-Algorithm-Concepts/src/ToDo1/whatYouKnow.js)
+- [Guau, es enorme](/01-Algorithm-Concepts/src/ToDo1/isBig.js)
