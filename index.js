@@ -7,6 +7,7 @@ const { multiplyOfFive } = require("./01-Algorithm-Concepts/src/ToDo1/multiplyOf
 const { multiplyOfSix } = require("./01-Algorithm-Concepts/src/ToDo1/multiplyOfSix")
 const { printNumbers } = require("./01-Algorithm-Concepts/src/ToDo1/printNumbers")
 const { printNumbersWhile } = require("./01-Algorithm-Concepts/src/ToDo1/printNumbersWhile")
+const { whatYouKnow } = require("./01-Algorithm-Concepts/src/ToDo1/whatYouKnow")
 const { whenIsMyBirthday } = require("./01-Algorithm-Concepts/src/ToDo1/whenIsYourBirthday")
 
 // * To Do 1
@@ -19,4 +20,5 @@ const { whenIsMyBirthday } = require("./01-Algorithm-Concepts/src/ToDo1/whenIsYo
 // console.log(leapYear(2400));
 // console.log("Cantidad: ", multiplyOfFive());
 // multiplyOfSix();
-countLikeDojo();
+// countLikeDojo();
+whatYouKnow("asdf");
