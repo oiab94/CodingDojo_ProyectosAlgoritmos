@@ -1,0 +1,26 @@
+{
+  "name": "codingdojo-proyectos-algoritmos",
+  "version": "1.0.0",
+  "description": "## Algorithm Concepts and Tips",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oiab94/CodingDojo_ProyectosAlgoritmos.git"
+  },
+  "author": "oiab94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oiab94/CodingDojo_ProyectosAlgoritmos/issues"
+  },
+  "homepage": "https://github.com/oiab94/CodingDojo_ProyectosAlgoritmos#readme",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
