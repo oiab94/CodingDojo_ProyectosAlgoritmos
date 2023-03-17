@@ -1,14 +1,12 @@
-const {
-	changeTwoWords,
-	printNumbers,
-	beCheerful,
-	multiply,
-	printNumbersWhile
-	} = require("./01-Algorithm-Concepts/src/ToDo1/excersises");
+const { beCheerful } = require("./01-Algorithm-Concepts/src/ToDo1/beCheereful")
+const { changeTwoWords } = require("./01-Algorithm-Concepts/src/ToDo1/changeTwoWords")
+const { multiply } = require("./01-Algorithm-Concepts/src/ToDo1/multiply")
+const { printNumbers } = require("./01-Algorithm-Concepts/src/ToDo1/printNumbers")
+const { printNumbersWhile } = require("./01-Algorithm-Concepts/src/ToDo1/printNumbersWhile")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
 // printNumbers();
 // beCheerful();
-multiply();
+// multiply();
 // printNumbersWhile();
