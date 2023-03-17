@@ -9,3 +9,9 @@ module.exports.changeTwoWords = (myNumber, myName) => {
 
 	return(b + " " + a);
 }
+
+module.exports.printNumbers = () => {
+	for (i = -52; i < 1067; i++) {
+		console.log(i);
+	}
+}
