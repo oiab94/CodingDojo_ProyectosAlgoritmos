@@ -3,6 +3,7 @@ const { changeTwoWords } = require("./01-Algorithm-Concepts/src/ToDo1/changeTwoW
 const { multiply } = require("./01-Algorithm-Concepts/src/ToDo1/multiply")
 const { printNumbers } = require("./01-Algorithm-Concepts/src/ToDo1/printNumbers")
 const { printNumbersWhile } = require("./01-Algorithm-Concepts/src/ToDo1/printNumbersWhile")
+const { whenIsMyBirthday } = require("./01-Algorithm-Concepts/src/ToDo1/whenIsYourBirthday")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -10,3 +11,4 @@ const { printNumbersWhile } = require("./01-Algorithm-Concepts/src/ToDo1/printNu
 // beCheerful();
 // multiply();
 // printNumbersWhile();
+// whenIsMyBirthday(13, 5);
