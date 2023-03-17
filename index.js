@@ -3,6 +3,7 @@ const { changeTwoWords } = require("./01-Algorithm-Concepts/src/ToDo1/changeTwoW
 const { leapYear } = require("./01-Algorithm-Concepts/src/ToDo1/leapYear")
 const { multiply } = require("./01-Algorithm-Concepts/src/ToDo1/multiply")
 const { multiplyOfFive } = require("./01-Algorithm-Concepts/src/ToDo1/multiplyOfFive")
+const { multiplyOfSix } = require("./01-Algorithm-Concepts/src/ToDo1/multiplyOfSix")
 const { printNumbers } = require("./01-Algorithm-Concepts/src/ToDo1/printNumbers")
 const { printNumbersWhile } = require("./01-Algorithm-Concepts/src/ToDo1/printNumbersWhile")
 const { whenIsMyBirthday } = require("./01-Algorithm-Concepts/src/ToDo1/whenIsYourBirthday")
@@ -15,4 +16,5 @@ const { whenIsMyBirthday } = require("./01-Algorithm-Concepts/src/ToDo1/whenIsYo
 // printNumbersWhile();
 // whenIsMyBirthday(13, 5);
 // console.log(leapYear(2400));
-console.log("Cantidad: ", multiplyOfFive());
+// console.log("Cantidad: ", multiplyOfFive());
+multiplyOfSix();
