@@ -41,3 +41,4 @@
 - [Agrega siete a la mayoria](/01-Algorithm-Concepts/src/ToDo3/addSeven.js)
 - [Arreglo inverso](/01-Algorithm-Concepts/src/ToDo3/revertArray.js)
 - [Perspectiva: Negativa](/01-Algorithm-Concepts/src/ToDo3/arrayNegative.js)
+- [Siempre hambriento](/01-Algorithm-Concepts/src/ToDo3/alwaysHungry.js)

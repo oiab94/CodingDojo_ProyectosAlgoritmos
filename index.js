@@ -21,6 +21,7 @@ const valueLength = require("./01-Algorithm-Concepts/src/ToDo2/valueLength")
 const valuesHigher = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigher")
 const valuesHigherGeneral = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigherGeneral")
 const addSeven = require("./01-Algorithm-Concepts/src/ToDo3/addSeven")
+const alwaysHungry = require("./01-Algorithm-Concepts/src/ToDo3/alwaysHungry")
 const arrayNegative = require("./01-Algorithm-Concepts/src/ToDo3/arrayNegative")
 const bigSize = require("./01-Algorithm-Concepts/src/ToDo3/bigSize")
 const countPositives = require("./01-Algorithm-Concepts/src/ToDo3/countPositives")
@@ -69,4 +70,5 @@ const revertArray = require("./01-Algorithm-Concepts/src/ToDo3/revertArray")
 // lengthLast(["hola", "mundo"]);
 // addSeven([1,2,3,4,5,6]);
 // revertArray([1,2,3,4]);
-arrayNegative([1,-2,3,-4])
+// arrayNegative([1,-2,3,-4]);
+alwaysHungry([1,2,3, "comida", 3]);
