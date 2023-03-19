@@ -21,6 +21,7 @@ const valueLength = require("./01-Algorithm-Concepts/src/ToDo2/valueLength")
 const valuesHigher = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigher")
 const valuesHigherGeneral = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigherGeneral")
 const bigSize = require("./01-Algorithm-Concepts/src/ToDo3/bigSize")
+const dobleVision = require("./01-Algorithm-Concepts/src/ToDo3/dobleVision")
 const printLowHighValue = require("./01-Algorithm-Concepts/src/ToDo3/printLowHighValue")
 const printOneReturnOther = require("./01-Algorithm-Concepts/src/ToDo3/printOneReturnOther")
 
@@ -53,4 +54,5 @@ const printOneReturnOther = require("./01-Algorithm-Concepts/src/ToDo3/printOneR
 // * ToDo 3
 // bigSize([-1, 3, 4, -5])
 // printLowHighValue([-1, 3, 4, -5])
-printOneReturnOther([-1, 3, 4, -5])
+// printOneReturnOther([-1, 3, 4, -5])
+dobleVision([1, 2, 3])
