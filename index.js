@@ -14,6 +14,7 @@ const { whenIsMyBirthday } = require("./01-Algorithm-Concepts/src/ToDo1/whenIsYo
 const firstPlusLength = require("./01-Algorithm-Concepts/src/ToDo2/firstPlusLength")
 const printReturn = require("./01-Algorithm-Concepts/src/ToDo2/printReturn")
 const reverseCount = require("./01-Algorithm-Concepts/src/ToDo2/reverseCount")
+const valueLength = require("./01-Algorithm-Concepts/src/ToDo2/valueLength")
 const valuesHigher = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigher")
 const valuesHigherGeneral = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigherGeneral")
 
@@ -37,4 +38,5 @@ const valuesHigherGeneral = require("./01-Algorithm-Concepts/src/ToDo2/valuesHig
 // printReturn([12, 1]);
 // firstPlusLength([12, 1]);
 // valuesHigher([3, 4, 5, 6]);
-valuesHigherGeneral([3, 4, 5, 6])
+// valuesHigherGeneral([3, 4, 5, 6])
+valueLength(2, 2);
