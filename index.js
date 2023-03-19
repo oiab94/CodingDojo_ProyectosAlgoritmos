@@ -20,6 +20,7 @@ const reverseCount = require("./01-Algorithm-Concepts/src/ToDo2/reverseCount")
 const valueLength = require("./01-Algorithm-Concepts/src/ToDo2/valueLength")
 const valuesHigher = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigher")
 const valuesHigherGeneral = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigherGeneral")
+const bigSize = require("./01-Algorithm-Concepts/src/ToDo3/bigSize")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -45,4 +46,7 @@ const valuesHigherGeneral = require("./01-Algorithm-Concepts/src/ToDo2/valuesHig
 // valueLength(2, 2);
 // adjustFirstValue([1, 2, 3, 4 ,5]);
 // fahrenheitToCelsius(64);
-celsiusToFahrenheit(100);
+// celsiusToFahrenheit(100);
+
+// * ToDo 3
+bigSize([-1, 3, 4, -5])

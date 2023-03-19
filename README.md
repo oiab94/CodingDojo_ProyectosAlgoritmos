@@ -27,3 +27,7 @@
 - [Ajustar el primer valor](/01-Algorithm-Concepts/src/ToDo2/adjustFirstValue.js)
 - [Fahrenheit a Celsius](/01-Algorithm-Concepts/src/ToDo2/fahrenheitToCelsius.js)
 - [Celsius a Fahrenheit](/01-Algorithm-Concepts/src/ToDo2/celsiusToFahrenheit.js)
+
+### ToDo 3
+
+-[Tamaño Grande](/01-Algorithm-Concepts/src/ToDo3/bigSize.js)
