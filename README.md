@@ -49,3 +49,4 @@
 - [Solo quedate con los ultimos](/01-Algorithm-Concepts/src/ToDo4/takeLastValues.js)
 - [Pobre kenny](/01-Algorithm-Concepts/src/ToDo4/whatHappensToday.js)
 - [Que paso realmente?](/01-Algorithm-Concepts/src/ToDo4/whatHappensTodayKyle.js)
+- [Calificación con letras](/01-Algorithm-Concepts/src/ToDo4/calificationLetters.js)
