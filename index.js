@@ -40,6 +40,8 @@ const whatHappensTodayKyle = require("./01-Algorithm-Concepts/src/Fundamentals/T
 const calificationLetters = require("./01-Algorithm-Concepts/src/Fundamentals/ToDo4/calificationLetters")
 const sigma = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo1/sigma")
 const factorial = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo1/factorial")
+const threesFives = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/threesFives")
+const betterThressFives = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/betterThressFives")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -92,4 +94,8 @@ const factorial = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo1/facto
 // * Fundamentals2
 // * ToDo 1
 // sigma(3);
-factorial(5)
+// factorial(5)
+
+// * ToDo 2
+threesFives();
+betterThressFives();

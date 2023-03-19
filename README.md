@@ -56,3 +56,6 @@
 ### ToDo 1
 -[Sigma](/01-Algorithm-Concepts/src/Fundamentals2/ToDo1/sigma.js)
 -[Factorial](/01-Algorithm-Concepts/src/Fundamentals2/ToDo1/factorial.js)
+
+### ToDo 2
+- [Tres y Cinco](/01-Algorithm-Concepts/src/Fundamentals2/ToDo2/threesFives.js)
