@@ -29,6 +29,7 @@ const lengthLast = require("./01-Algorithm-Concepts/src/ToDo3/lengthLast")
 const parImpar = require("./01-Algorithm-Concepts/src/ToDo3/parImpar")
 const printLowHighValue = require("./01-Algorithm-Concepts/src/ToDo3/printLowHighValue")
 const printOneReturnOther = require("./01-Algorithm-Concepts/src/ToDo3/printOneReturnOther")
+const revertArray = require("./01-Algorithm-Concepts/src/ToDo3/revertArray")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -65,4 +66,5 @@ const printOneReturnOther = require("./01-Algorithm-Concepts/src/ToDo3/printOneR
 // parImpar([1, 1, 1 , 2, 2, 2])
 // incrementSeconds([1,2,3,4,5,6,7]);
 // lengthLast(["hola", "mundo"]);
-addSeven([1,2,3,4,5,6])
+// addSeven([1,2,3,4,5,6]);
+revertArray([1,2,3,4]);
