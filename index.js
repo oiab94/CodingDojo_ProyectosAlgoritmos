@@ -15,6 +15,7 @@ const firstPlusLength = require("./01-Algorithm-Concepts/src/ToDo2/firstPlusLeng
 const printReturn = require("./01-Algorithm-Concepts/src/ToDo2/printReturn")
 const reverseCount = require("./01-Algorithm-Concepts/src/ToDo2/reverseCount")
 const valuesHigher = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigher")
+const valuesHigherGeneral = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigherGeneral")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -35,4 +36,5 @@ const valuesHigher = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigher")
 // reverseCount(5);
 // printReturn([12, 1]);
 // firstPlusLength([12, 1]);
-valuesHigher([3, 4, 5, 6]);
+// valuesHigher([3, 4, 5, 6]);
+valuesHigherGeneral([3, 4, 5, 6])
