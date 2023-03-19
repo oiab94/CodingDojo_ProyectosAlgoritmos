@@ -22,6 +22,7 @@ const valuesHigher = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigher")
 const valuesHigherGeneral = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigherGeneral")
 const bigSize = require("./01-Algorithm-Concepts/src/ToDo3/bigSize")
 const printLowHighValue = require("./01-Algorithm-Concepts/src/ToDo3/printLowHighValue")
+const printOneReturnOther = require("./01-Algorithm-Concepts/src/ToDo3/printOneReturnOther")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -51,4 +52,5 @@ const printLowHighValue = require("./01-Algorithm-Concepts/src/ToDo3/printLowHig
 
 // * ToDo 3
 // bigSize([-1, 3, 4, -5])
-printLowHighValue([-1, 3, 4, -5])
+// printLowHighValue([-1, 3, 4, -5])
+printOneReturnOther([-1, 3, 4, -5])
