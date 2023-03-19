@@ -1,3 +1,4 @@
+const takeLastValues = require("./01-Algorithm-Concepts/src/ToDo4/takeLastValues")
 const { beCheerful } = require("./01-Algorithm-Concepts/src/ToDo1/beCheereful")
 const { changeTwoWords } = require("./01-Algorithm-Concepts/src/ToDo1/changeTwoWords")
 const { countLikeDojo } = require("./01-Algorithm-Concepts/src/ToDo1/countLikeDojo")
@@ -75,4 +76,7 @@ const scaleArray = require("./01-Algorithm-Concepts/src/ToDo3/scaleArray")
 // arrayNegative([1,-2,3,-4]);
 // alwaysHungry([1,2,3, "comida", 3]);
 // changeCenter([1,2,3,4,5])
-scaleArray([1,2,3,4,5], 2);
+// scaleArray([1,2,3,4,5], 2);
+
+// * ToDo 4
+console.log(takeLastValues([1,2,3,4,5], 2));
