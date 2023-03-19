@@ -12,6 +12,7 @@ const { printNumbersWhile } = require("./01-Algorithm-Concepts/src/ToDo1/printNu
 const { whatYouKnow } = require("./01-Algorithm-Concepts/src/ToDo1/whatYouKnow")
 const { whenIsMyBirthday } = require("./01-Algorithm-Concepts/src/ToDo1/whenIsYourBirthday")
 const adjustFirstValue = require("./01-Algorithm-Concepts/src/ToDo2/adjustFirstValue")
+const celsiusToFahrenheit = require("./01-Algorithm-Concepts/src/ToDo2/celsiusToFahrenheit")
 const fahrenheitToCelsius = require("./01-Algorithm-Concepts/src/ToDo2/fahrenheitToCelsius")
 const firstPlusLength = require("./01-Algorithm-Concepts/src/ToDo2/firstPlusLength")
 const printReturn = require("./01-Algorithm-Concepts/src/ToDo2/printReturn")
@@ -43,4 +44,5 @@ const valuesHigherGeneral = require("./01-Algorithm-Concepts/src/ToDo2/valuesHig
 // valuesHigherGeneral([3, 4, 5, 6])
 // valueLength(2, 2);
 // adjustFirstValue([1, 2, 3, 4 ,5]);
-fahrenheitToCelsius(64);
+// fahrenheitToCelsius(64);
+celsiusToFahrenheit(100);
