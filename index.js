@@ -14,6 +14,7 @@ const { whenIsMyBirthday } = require("./01-Algorithm-Concepts/src/ToDo1/whenIsYo
 const firstPlusLength = require("./01-Algorithm-Concepts/src/ToDo2/firstPlusLength")
 const printReturn = require("./01-Algorithm-Concepts/src/ToDo2/printReturn")
 const reverseCount = require("./01-Algorithm-Concepts/src/ToDo2/reverseCount")
+const valuesHigher = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigher")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -33,4 +34,5 @@ const reverseCount = require("./01-Algorithm-Concepts/src/ToDo2/reverseCount")
 // * ToDo 2
 // reverseCount(5);
 // printReturn([12, 1]);
-firstPlusLength([12, 1]);
+// firstPlusLength([12, 1]);
+valuesHigher([3, 4, 5, 6]);
