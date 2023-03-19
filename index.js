@@ -11,6 +11,7 @@ const { printNumbers } = require("./01-Algorithm-Concepts/src/ToDo1/printNumbers
 const { printNumbersWhile } = require("./01-Algorithm-Concepts/src/ToDo1/printNumbersWhile")
 const { whatYouKnow } = require("./01-Algorithm-Concepts/src/ToDo1/whatYouKnow")
 const { whenIsMyBirthday } = require("./01-Algorithm-Concepts/src/ToDo1/whenIsYourBirthday")
+const reverseCount = require("./01-Algorithm-Concepts/src/ToDo2/reverseCount")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -25,4 +26,7 @@ const { whenIsMyBirthday } = require("./01-Algorithm-Concepts/src/ToDo1/whenIsYo
 // countLikeDojo();
 // whatYouKnow("asdf");
 // isBig();
-countReverse();
+// countReverse();
+
+// * ToDo 2
+reverseCount(5);

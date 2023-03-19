@@ -16,3 +16,6 @@
 - [Que sabe](/01-Algorithm-Concepts/src/ToDo1/whatYouKnow.js)
 - [Guau, es enorme](/01-Algorithm-Concepts/src/ToDo1/isBig.js)
 - [Cuenta regresiva cada cuatro](/01-Algorithm-Concepts/src/ToDo1//countReverse.js)
+
+### ToDo 2
+- [Cuenta Regresiva](/01-Algorithm-Concepts/src/ToDo2/reverseCount.js)
