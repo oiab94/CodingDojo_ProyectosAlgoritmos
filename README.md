@@ -50,3 +50,8 @@
 - [Pobre kenny](/01-Algorithm-Concepts/src/Fundamentals/ToDo4/whatHappensToday.js)
 - [Que paso realmente?](/01-Algorithm-Concepts/src/Fundamentals/ToDo4/whatHappensTodayKyle.js)
 - [Calificación con letras](/01-Algorithm-Concepts/src/Fundamentals/ToDo4/calificationLetters.js)
+
+## Fundamentals 2
+
+### ToDo 1
+-[Sigma](/01-Algorithm-Concepts/src/Fundamentals2/ToDo1/sigma.js)
