@@ -25,3 +25,4 @@
 - [Valores mayores que el segundo generalizados](/01-Algorithm-Concepts/src/ToDo2/valuesHigherGeneral.js)
 - [Esta longitud, ese valor](/01-Algorithm-Concepts/src/ToDo2/valueLength.js)
 - [Ajustar el primer valor](/01-Algorithm-Concepts/src/ToDo2/adjustFirstValue.js)
+- [Fahrenheit a Celsius](/01-Algorithm-Concepts/src/ToDo2/fahrenheitToCelsius.js)
