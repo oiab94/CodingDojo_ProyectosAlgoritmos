@@ -15,3 +15,4 @@
 - [Contando, a la manera Dojo](/01-Algorithm-Concepts/src/ToDo1/countLikeDojo.js)
 - [Que sabe](/01-Algorithm-Concepts/src/ToDo1/whatYouKnow.js)
 - [Guau, es enorme](/01-Algorithm-Concepts/src/ToDo1/isBig.js)
+- [Cuenta regresiva cada cuatro](/01-Algorithm-Concepts/src/ToDo1//countReverse.js)
