@@ -35,6 +35,7 @@ const printLowHighValue = require("./01-Algorithm-Concepts/src/ToDo3/printLowHig
 const printOneReturnOther = require("./01-Algorithm-Concepts/src/ToDo3/printOneReturnOther")
 const revertArray = require("./01-Algorithm-Concepts/src/ToDo3/revertArray")
 const scaleArray = require("./01-Algorithm-Concepts/src/ToDo3/scaleArray")
+const whatHappensToday = require("./01-Algorithm-Concepts/src/ToDo4/whatHappensToday")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -79,4 +80,5 @@ const scaleArray = require("./01-Algorithm-Concepts/src/ToDo3/scaleArray")
 // scaleArray([1,2,3,4,5], 2);
 
 // * ToDo 4
-console.log(takeLastValues([1,2,3,4,5], 2));
+// console.log(takeLastValues([1,2,3,4,5], 2));
+whatHappensToday();
