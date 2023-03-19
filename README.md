@@ -35,3 +35,4 @@
 - [Imprime uno, devuelve otro](/01-Algorithm-Concepts/src/ToDo3/printOneReturnOther.js)
 - [Visión Doble](/01-Algorithm-Concepts/src/ToDo3/dobleVision.js)
 - [Contar positivos](/01-Algorithm-Concepts/src/ToDo3/countPositives.js)
+- [Pares e impares](/01-Algorithm-Concepts/src/ToDo3/parImpar.js)
