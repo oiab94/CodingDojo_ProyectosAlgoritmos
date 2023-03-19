@@ -23,6 +23,7 @@ const valuesHigherGeneral = require("./01-Algorithm-Concepts/src/ToDo2/valuesHig
 const bigSize = require("./01-Algorithm-Concepts/src/ToDo3/bigSize")
 const countPositives = require("./01-Algorithm-Concepts/src/ToDo3/countPositives")
 const dobleVision = require("./01-Algorithm-Concepts/src/ToDo3/dobleVision")
+const incrementSeconds = require("./01-Algorithm-Concepts/src/ToDo3/incrementSeconds")
 const parImpar = require("./01-Algorithm-Concepts/src/ToDo3/parImpar")
 const printLowHighValue = require("./01-Algorithm-Concepts/src/ToDo3/printLowHighValue")
 const printOneReturnOther = require("./01-Algorithm-Concepts/src/ToDo3/printOneReturnOther")
@@ -59,4 +60,5 @@ const printOneReturnOther = require("./01-Algorithm-Concepts/src/ToDo3/printOneR
 // printOneReturnOther([-1, 3, 4, -5])
 // dobleVision([1, 2, 3])
 // countPositives([-1, -2, 3, 4]);
-parImpar([1, 1, 1 , 2, 2, 2])
+// parImpar([1, 1, 1 , 2, 2, 2])
+incrementSeconds([1,2,3,4,5,6,7]);

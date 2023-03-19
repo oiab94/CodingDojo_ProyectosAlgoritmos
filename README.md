@@ -36,3 +36,4 @@
 - [Visión Doble](/01-Algorithm-Concepts/src/ToDo3/dobleVision.js)
 - [Contar positivos](/01-Algorithm-Concepts/src/ToDo3/countPositives.js)
 - [Pares e impares](/01-Algorithm-Concepts/src/ToDo3/parImpar.js)
+- [Incrementar los segundos](/01-Algorithm-Concepts/src/ToDo3/incrementSeconds.js)
