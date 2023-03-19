@@ -43,3 +43,4 @@
 - [Perspectiva: Negativa](/01-Algorithm-Concepts/src/ToDo3/arrayNegative.js)
 - [Siempre hambriento](/01-Algorithm-Concepts/src/ToDo3/alwaysHungry.js)
 - [Intercambiar el centro](/01-Algorithm-Concepts/src/ToDo3/changeCenter.js)
+- [Escala el arreglo](/01-Algorithm-Concepts/src/ToDo3/scaleArray.js)
