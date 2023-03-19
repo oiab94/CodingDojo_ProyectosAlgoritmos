@@ -11,6 +11,7 @@ const { printNumbers } = require("./01-Algorithm-Concepts/src/ToDo1/printNumbers
 const { printNumbersWhile } = require("./01-Algorithm-Concepts/src/ToDo1/printNumbersWhile")
 const { whatYouKnow } = require("./01-Algorithm-Concepts/src/ToDo1/whatYouKnow")
 const { whenIsMyBirthday } = require("./01-Algorithm-Concepts/src/ToDo1/whenIsYourBirthday")
+const printReturn = require("./01-Algorithm-Concepts/src/ToDo2/printReturn")
 const reverseCount = require("./01-Algorithm-Concepts/src/ToDo2/reverseCount")
 
 // * To Do 1
@@ -29,4 +30,5 @@ const reverseCount = require("./01-Algorithm-Concepts/src/ToDo2/reverseCount")
 // countReverse();
 
 // * ToDo 2
-reverseCount(5);
+// reverseCount(5);
+printReturn([12, 1]);
