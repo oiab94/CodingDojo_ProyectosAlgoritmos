@@ -38,3 +38,4 @@
 - [Pares e impares](/01-Algorithm-Concepts/src/ToDo3/parImpar.js)
 - [Incrementar los segundos](/01-Algorithm-Concepts/src/ToDo3/incrementSeconds.js)
 - [Longitudes anteriores](/01-Algorithm-Concepts/src/ToDo3/lengthLast.js)
+- [Agrega siete a la mayoria](/01-Algorithm-Concepts/src/ToDo3/addSeven.js)

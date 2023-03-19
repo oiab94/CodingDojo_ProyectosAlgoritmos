@@ -20,6 +20,7 @@ const reverseCount = require("./01-Algorithm-Concepts/src/ToDo2/reverseCount")
 const valueLength = require("./01-Algorithm-Concepts/src/ToDo2/valueLength")
 const valuesHigher = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigher")
 const valuesHigherGeneral = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigherGeneral")
+const addSeven = require("./01-Algorithm-Concepts/src/ToDo3/addSeven")
 const bigSize = require("./01-Algorithm-Concepts/src/ToDo3/bigSize")
 const countPositives = require("./01-Algorithm-Concepts/src/ToDo3/countPositives")
 const dobleVision = require("./01-Algorithm-Concepts/src/ToDo3/dobleVision")
@@ -63,4 +64,5 @@ const printOneReturnOther = require("./01-Algorithm-Concepts/src/ToDo3/printOneR
 // countPositives([-1, -2, 3, 4]);
 // parImpar([1, 1, 1 , 2, 2, 2])
 // incrementSeconds([1,2,3,4,5,6,7]);
-lengthLast(["hola", "mundo"]);
+// lengthLast(["hola", "mundo"]);
+addSeven([1,2,3,4,5,6])
