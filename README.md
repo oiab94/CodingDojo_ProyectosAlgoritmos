@@ -30,4 +30,5 @@
 
 ### ToDo 3
 
--[Tamaño Grande](/01-Algorithm-Concepts/src/ToDo3/bigSize.js)
+- [Tamaño Grande](/01-Algorithm-Concepts/src/ToDo3/bigSize.js)
+- [Imprime bajo, devuelve alto](/01-Algorithm-Concepts/src/ToDo3/printLowHighValue.js)

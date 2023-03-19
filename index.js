@@ -21,6 +21,7 @@ const valueLength = require("./01-Algorithm-Concepts/src/ToDo2/valueLength")
 const valuesHigher = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigher")
 const valuesHigherGeneral = require("./01-Algorithm-Concepts/src/ToDo2/valuesHigherGeneral")
 const bigSize = require("./01-Algorithm-Concepts/src/ToDo3/bigSize")
+const printLowHighValue = require("./01-Algorithm-Concepts/src/ToDo3/printLowHighValue")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -49,4 +50,5 @@ const bigSize = require("./01-Algorithm-Concepts/src/ToDo3/bigSize")
 // celsiusToFahrenheit(100);
 
 // * ToDo 3
-bigSize([-1, 3, 4, -5])
+// bigSize([-1, 3, 4, -5])
+printLowHighValue([-1, 3, 4, -5])
