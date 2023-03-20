@@ -47,6 +47,7 @@ const messyMath = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/messy
 const fibonacci = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/fibonacci")
 const sumToOne = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/sumToOne")
 const esPrimo = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/esPrimo")
+const swatshirtPricing = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo3/swatshirtPricing")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -108,4 +109,7 @@ const esPrimo = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/esPrimo
 // messyMath(4);
 // fibonacci(7);
 // sumToOne(123);
-esPrimo(145);
+// esPrimo(145);
+
+// * ToDo 3
+swatshirtPricing(5);
