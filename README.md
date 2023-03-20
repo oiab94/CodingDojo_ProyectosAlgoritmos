@@ -60,3 +60,4 @@
 ### ToDo 2
 - [Tres y Cinco](/01-Algorithm-Concepts/src/Fundamentals2/ToDo2/threesFives.js)
 - [Genera cambio de moneda](01-Algorithm-Concepts/src/Fundamentals2/ToDo2/generateCoinChange.js)
+- [Mescolanza Matemática](01-Algorithm-Concepts/src/Fundamentals2/ToDo2/messyMath.js)

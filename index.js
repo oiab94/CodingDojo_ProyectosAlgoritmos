@@ -43,6 +43,7 @@ const factorial = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo1/facto
 const threesFives = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/threesFives")
 const betterThressFives = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/betterThressFives")
 const generateCoinChange = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/generateCoinChange")
+const messyMath = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/messyMath")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -100,4 +101,5 @@ const generateCoinChange = require("./01-Algorithm-Concepts/src/Fundamentals2/To
 // * ToDo 2
 // threesFives();
 // betterThressFives();
-generateCoinChange(94);
+// generateCoinChange(94);
+messyMath(4);
