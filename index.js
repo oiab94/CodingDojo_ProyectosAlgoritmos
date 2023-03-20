@@ -46,6 +46,7 @@ const generateCoinChange = require("./01-Algorithm-Concepts/src/Fundamentals2/To
 const messyMath = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/messyMath")
 const fibonacci = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/fibonacci")
 const sumToOne = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/sumToOne")
+const esPrimo = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/esPrimo")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -106,4 +107,5 @@ const sumToOne = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/sumToO
 // generateCoinChange(94);
 // messyMath(4);
 // fibonacci(7);
-sumToOne(123);
+// sumToOne(123);
+esPrimo(145);
