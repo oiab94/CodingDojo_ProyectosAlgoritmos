@@ -48,6 +48,7 @@ const fibonacci = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/fibon
 const sumToOne = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/sumToOne")
 const esPrimo = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/esPrimo")
 const swatshirtPricing = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo3/swatshirtPricing")
+const significativeDigit = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo4/significativeDigit")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -112,4 +113,7 @@ const swatshirtPricing = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo
 // esPrimo(145);
 
 // * ToDo 3
-swatshirtPricing(5);
+// swatshirtPricing(5);
+
+// * Todo 4
+significativeDigit(12534);

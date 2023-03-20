@@ -64,4 +64,10 @@
 - [Fibonacci](01-Algorithm-Concepts/src/Fundamentals2/ToDo2/fibonacci.js)
 - [Suma a un digito](01-Algorithm-Concepts/src/Fundamentals2/ToDo2/sumToOne.js)
 - [Es primo](01-Algorithm-Concepts/src/Fundamentals2/ToDo2/esPrimo.js)
+
+### ToDo 3
+
 - [Luciendo la camiseta del Dojo](01-Algorithm-Concepts/src/Fundamentals2/ToDo3/swatshirtPricing.js)
+
+### ToDo 4
+-[Digito más significativo](01-Algorithm-Concepts/src/Fundamentals2/ToDo4/significativeDigit.js)
