@@ -42,6 +42,7 @@ const sigma = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo1/sigma")
 const factorial = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo1/factorial")
 const threesFives = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/threesFives")
 const betterThressFives = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/betterThressFives")
+const generateCoinChange = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/generateCoinChange")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -97,5 +98,6 @@ const betterThressFives = require("./01-Algorithm-Concepts/src/Fundamentals2/ToD
 // factorial(5)
 
 // * ToDo 2
-threesFives();
-betterThressFives();
+// threesFives();
+// betterThressFives();
+generateCoinChange(94);
