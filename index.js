@@ -44,6 +44,7 @@ const threesFives = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/thr
 const betterThressFives = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/betterThressFives")
 const generateCoinChange = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/generateCoinChange")
 const messyMath = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/messyMath")
+const fibonacci = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/fibonacci")
 
 // * To Do 1
 // console.log(changeTwoWords("42", "oscar"));
@@ -102,4 +103,5 @@ const messyMath = require("./01-Algorithm-Concepts/src/Fundamentals2/ToDo2/messy
 // threesFives();
 // betterThressFives();
 // generateCoinChange(94);
-messyMath(4);
+// messyMath(4);
+fibonacci(7);
